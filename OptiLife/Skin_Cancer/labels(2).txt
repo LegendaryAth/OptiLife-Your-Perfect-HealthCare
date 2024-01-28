@@ -1,0 +1,6 @@
+0 Vascular Lesion
+1 Nevus
+2 Melanoma
+3 Dermatofibroma
+4 Actinic Keratosis
+5 Blank

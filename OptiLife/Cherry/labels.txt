@@ -1,0 +1,3 @@
+0 unhealthy
+1 healthy
+2 blank
